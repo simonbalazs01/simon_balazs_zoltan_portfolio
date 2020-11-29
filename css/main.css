@@ -1,0 +1,160 @@
+body{
+	
+	
+	background-image: url(https://gyogyszernelkul.com/wp-content/uploads/2016/04/Green-Background-Abstract-Wallpaper-HD.jpg);
+	display: grid;
+}
+*, *:: before, *::after{
+	margin: 0;
+	padding: 0;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+header{
+	line-height: 2rem;
+	font-size: 1rem;
+	color: white;
+	
+
+
+}
+.header_jobb{
+	margin-right: 2rem;
+	float: right;
+	text-decoration-line: underline;
+	
+}
+.header_jobb:hoover{
+	text-decoration: underline;
+	cursor: pointer;
+	color: #666666
+}
+.header_bal{
+	float: left;
+	margin-left: 2rem;
+	color: white;
+	font-size: 3rem;
+	margin-top: 1rem;
+
+}
+header .portfolio_tav{
+	margin: 2rem;
+	
+}
+header .öneletrajz_tav{
+	margin-right: 2rem;
+
+}
+.main_bal{	
+	float: left;	
+	margin-top: 8rem;
+	color: white;
+	font-size: 1.85rem;
+	margin left: 2rem;
+
+
+}
+.kep1{
+	margin-right: 4rem;
+	margin-top: 6rem;
+	margin-left: 0rem;
+	text-align: center;
+	
+	margin-bottom: 4rem;
+
+
+}
+.kep2{
+	margin-right: 6.4rem;
+	margin-top: 4rem;
+	text-align: right;
+	margin-top: 2rem;
+}
+    
+
+.cv_cím{	
+
+	text-align: center;
+	font-size: 5rem;
+	margin-top: 2rem;
+
+
+}
+.cv_main{
+	float: left;
+	margin-top: 13rem;
+	font-size: 1.85rem;
+	color: white;
+	margin-left: 9rem;
+
+}	
+.kep_cv{
+	text-align: right;
+	margin-right: 12rem;
+	margin-top: 4.7rem;
+	margin-bottom: 0rem;
+	
+
+}
+.HK_cím{
+	margin-top: 2rem;
+	text-align: center;
+	font-size: 5rem;
+	margin-right: 1rem;
+}
+.HK_szöveg{
+	text-align: left;
+	margin-top: 10rem;
+	font-size: 1.85rem;
+	color: white;
+	margin-left: 2.5rem;
+
+}
+.kep_HK{
+	text-align: left;
+	margin-right: 2rem; 
+	color: white;
+	font-size: 1.85rem; 
+	margin-top: 6rem;
+
+
+
+
+}
+img{
+	float: right;
+	display: inline-block;
+
+}
+.EL_szöveg{
+	text-align: center;
+	margin-top: 12rem;
+	font-size: 1.85rem;
+	color: white;
+	margin-left: 0rem;
+}
+.EL_cím{
+
+    margin-top: 2rem;
+	text-align: center;
+	font-size: 5rem;
+	margin-right: 0rem;
+
+}
+.főoldal{
+	float:  left;
+	margin-left: 2rem;
+	margin-top: 0rem;
+	color: white;
+	font-size: 1rem;
+	text-decoration-line: underline;
+}
+.EL_facebook{
+	color: white;
+	font font-size: 1.85rem;
+	text-decoration-line: underline;
+}
+
